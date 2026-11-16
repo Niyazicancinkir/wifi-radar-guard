@@ -1,0 +1,21 @@
+{
+  "z_threshold": 3.5,
+  "calib_s": 6.0,
+  "alarm_s": 7.4,
+  "vacuum": {
+    "backend": "s20",
+    "ip": "",
+    "token": "",
+    "did": "",
+    "attack": [["forward", 3.0], ["left", 0.7], ["right", 1.4], ["left", 0.7], ["forward", 2.0]],
+    "announce": false
+  },
+  "led": {
+    "adresler": [],
+    "normal_renk": [255, 255, 255]
+  },
+  "telegram": {
+    "token": "",
+    "chat_id": ""
+  }
+}
