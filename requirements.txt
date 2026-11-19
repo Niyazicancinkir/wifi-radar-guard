@@ -1,0 +1,4 @@
+bleak
+pygame
+python-miio
+requests
